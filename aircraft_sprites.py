@@ -53,7 +53,7 @@ class Enemy(GameSprite):
         # 1 create emeny sprite, and image
         super().__init__("./images/enemy1.png")
         # 2 speed
-        self.speed = random.randint(2,4)
+        self.speed = random.randint(2,5)
         # 3 rect
         self.rect.bottom = 0
         max_x = SCREEN_RECT.width - self.rect.width
