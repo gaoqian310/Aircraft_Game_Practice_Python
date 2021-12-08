@@ -23,7 +23,7 @@ Hero Aircraft will automatically firing bullet stright up and bullet moving at s
 When Bullet collied with Enemy Aircraft, Enemy Aircraft will be destoried. If hero aircraft collide with Enemy Aircraft, the game is over.
 
 
-###### Credit
+##### Credit
 This project was completed by following the tutorial on Bilibili @黑马程序员
 
 For more information, see "[More Info](https://www.bilibili.com/video/BV1ex411x7Em?p=461)"
