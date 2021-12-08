@@ -1,5 +1,5 @@
-# Aircraft_Game_Practice_Python
-Small Aircraft Game in Python
+# Aircraft Game Practice with Python
 
-Followed tutorial on Bilibili @黑马程序员
+## This project was Followed tutorial on Bilibili @黑马程序员
 
+https://www.bilibili.com/video/BV1ex411x7Em?p=461
